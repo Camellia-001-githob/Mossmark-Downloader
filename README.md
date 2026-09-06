@@ -69,3 +69,77 @@
 ---
 
 **苔·迹 —— 如苔生长，有迹可循。** 🌱
+
+-------------------------------------------
+
+# Tai Ji (MossMark)
+
+A growth-tracking app designed specifically for middle school students. To-dos, journal, exam papers, grades, goals — MossMark puts every aspect of your study life into one app. **It runs fully offline: no sign-up, no login, all data stays on your device, with outstanding privacy.**
+
+> Where sunlight rarely reaches, youth quietly blooms. Let every day's effort leave its trace, like a patch of moss.
+
+---
+
+## Features
+
+| Feature | Description |
+| --- | --- |
+|  To-do List | Manage study tasks by date with eye-catching overdue reminders; swipe to delete and see your progress at a glance |
+|  Journal | Jot down your thoughts each day, automatically archived by date, ready for you to look back on |
+|  Exam Paper Collection | Photograph and file exam papers into folders by subject or term; browse them anytime for review and export for safekeeping |
+|  Grade Records | Enter your exam scores and get automatic trend charts — progress and setbacks at a glance |
+|  Goal Check-in | Timeline-based progress tracking that lights up every day you stick with it |
+|  Dark Mode | Adapts automatically between light and dark themes for comfortable night-time study |
+|  Custom Fonts | Multiple built-in handwritten fonts to create your own style |
+|  Privacy First | No account, no internet access — all data stays on your phone only |
+
+---
+
+## Download & Installation
+
+1. Open the **[Releases](../../releases)** page of this repository (or click "Releases" in the right sidebar).
+2. Find the latest version in the list and click **`MossMark-vX.X.X.apk`** under **Assets** to download.
+3. Open the downloaded APK on your phone. If prompted to "allow installation from unknown sources", choose **Allow**.
+4. Once installed, open the app and start using it — no account needed.
+
+> ⚠️ Android only. The app requires no network permission, so you can use it with confidence.
+
+---
+
+## User Guide
+
+### To-do List
+- Tap the small bar on the left to **add a to-do**, type your task, and tap the small bar on the right to view date progress.
+- Tap the **circle** in front of a task to check it off; swipe the card **left** to delete it.
+- Overdue tasks are highlighted with a red glow.
+
+### Journal
+- On the "Today" page, swipe the big green card to switch to the journal, type your thoughts, and they save automatically.
+- You can view past journal entries at the bottom of the "Me" page.
+
+### Exam Paper Collection
+- On the Records page, tap "Records" again to switch to the collection view, then tap **New Folder** to create categories by subject or term (e.g. "Grade 10 Midterms").
+- **Press and hold** the outermost card of a folder to **photograph exam papers** — multiple photos per session are supported.
+- Tap a folder to unfold and view the paper cards inside.
+- Tap the first card to enter a magazine-style browsing view with full-screen preview, page flipping, and one-tap export of the whole folder.
+
+### Grade Records
+- Tap **Enter Grades** on the Records page, choose the exam type (monthly / midterm / final), and enter your scores by subject.
+- The app automatically calculates totals and draws a grade trend chart.
+- After your next exam, scores are compared automatically — progress and setbacks at a glance.
+
+### Goal Check-in
+- Tap **+** in the bottom-right corner of the Plans page to create a goal or plan, with name, deadline, and reminder.
+- Each day, load your plan cards from the Focus page to start working; tap to check in as you complete them, and your consistency becomes visible.
+
+---
+
+## Feedback
+
+If you run into any problems or have feature suggestions, feel free to open an [Issue](../../issues) in this repository.
+You can also reach me by email: Mossmark@163.com
+Or join our QQ group: 1121885958
+
+---
+
+**MossMark — growing quietly like moss, leaving traces that last.** 🌱
