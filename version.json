@@ -1,11 +1,10 @@
 {
-    "versionCode": 3135,
-    "version": "苔·迹 3.1.3.5",
+    "versionCode": 3136,
+    "version": "苔·迹 3.1.3.6",
     "features": [
-      "震动反馈：整合为选项式切换（关闭/低/中/高）",
-      "检查更新：优化更新流程",
+      "更新检查更新机制",
       "其他bug修复与体验优化"
     ],
-    "wgtUrl": "https://github.com/Camellia-001-githob/Mossmark-Downloader/raw/main/3.1.3.5.wgt",
+    "wgtUrl": "https://github.com/Camellia-001-githob/Mossmark-Downloader/raw/main/3.1.3.6.wgt",
     "date": "2026-09-06"
   }
