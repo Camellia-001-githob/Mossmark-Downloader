@@ -24,7 +24,7 @@
 ## 下载安装
 
 1. 打开本仓库右侧的 **[Releases](../../releases)** 页面（或点击右侧栏 Releases）。
-2. 在版本列表中找到最新版本，点击 **Assets** 下的 **`MossMark-vX.X.X.apk`** 下载。
+2. 在版本列表中找到最新版本，点击 **Assets** 下的 **`MossMark-v1.0.3.apk`** 下载。
 3. 手机上打开下载好的 APK，如果提示「允许安装未知来源应用」，请选择**允许**。
 4. 安装完成，打开即可使用，无需注册任何账号。
 
@@ -98,7 +98,7 @@ A growth-tracking app designed specifically for middle school students. To-dos, 
 ## Download & Installation
 
 1. Open the **[Releases](../../releases)** page of this repository (or click "Releases" in the right sidebar).
-2. Find the latest version in the list and click **`MossMark-vX.X.X.apk`** under **Assets** to download.
+2. Find the latest version in the list and click **`MossMark-v1.0.3.apk`** under **Assets** to download.
 3. Open the downloaded APK on your phone. If prompted to "allow installation from unknown sources", choose **Allow**.
 4. Once installed, open the app and start using it — no account needed.
 
