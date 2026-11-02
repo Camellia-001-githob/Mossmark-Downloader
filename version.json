@@ -1,10 +1,10 @@
 {
-    "versionCode": 105,
-    "version": "苔·迹 v1.0.5",
+    "versionCode": 200,
+    "version": "苔·迹 v2.0.0",
     "features": [
-      "更新设计语言",
-      "增加二级页面"
+      "更新架构加快反应速度减轻文件占用",
+      "更新UI设计"
     ],
-    "wgtUrl": "https://github.com/Camellia-001-githob/Mossmark-Downloader/raw/main/v1.0.5.wgt",
+    "wgtUrl": "https://github.com/Camellia-001-githob/Mossmark-Downloader/raw/main/v2.0.0.wgt",
     "date": "2026-11-2"
   }
